@@ -1,30 +1,14 @@
 ---
 layout: page
-title: About
+title: About Me
 ---
 
-<p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
-</p>
+Hi, I am Mitro (Mitrasree Deb). I am currently pursuing an MS in Computer Science at Western Washington University, with an expected graduation date of June 2026. My primary research interests lie in Human-Computer Interaction (HCI), Data Analysis, and Affective Computing. 
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+I hold a Bachelor of Science in Computer Science and Engineering from Bangladesh University of Engineering and Technology (BUET), completed between 2014 and 2018. After obtaining my Bachelors, I worked as an IT Consultant (BI Analyst) for 5 years in Japan and 1 year in Bangladesh.
 
-There are currently two themes built on Poole:
+I aspire to dive deeper into the social issues of communities around me. Qualitative research methods and data analysis in Human-Computer Interaction (HCI), User Experience (UX), ICT4D, Ethnography, and Affective Computing are closely aligned with my research interests which I want to pursue actively.
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+Currently, I am a Graduate Teaching Assistant in the Department of Computer Science and doing my Masters' Research under the KIND (Komputing for Inclusion and Disability) Research Group, advised by Dr. Yasmine Elglaly. I have also actively working in the NEAT (Next Generation Effective Affective Technology) Research Group, advised by Dr. Moushumi Sharmin and Dr. Shameem Ahmed. 
 
-Learn more and contribute on [GitHub](https://github.com/poole).
-
-## Setup
-
-Some fun facts about the setup of this project include:
-
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
-
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
-
-Thanks for reading!
+During my undergrad and professional life, I worked under the guidance of Dr. Ishtiaque Ahmed from University of Toronto, which resulted into my first ever research publication with the best paper for honorable mention award in CHI 2021 (Top 5%) which is the most reputable venue in HCI. 
