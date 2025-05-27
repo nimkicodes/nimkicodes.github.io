@@ -7,10 +7,10 @@ permalink:        pretty
 relative_permalinks: true
 
 # Setup
-title:            Hyde
+title:            Mitrasree Deb
 tagline:          'A Jekyll theme'
 description:      'Mitrasree Deb - Personal Website'
-url:              http://hyde.getpoole.com
+url:              https://nimkicodes.github.io/
 baseurl:          /
 
 author:
