@@ -1,6 +1,7 @@
 ---
 layout: page
 title: CV
+permalink: /resume
 ---
 
 You can download my full CV here: [Download CV (PDF)](assets/pdf/MITRASREE_DEB_CV.pdf)

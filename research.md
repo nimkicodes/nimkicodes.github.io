@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Projects
+title: Research
+permalink: /research
 ---
 
 Here are some of the research projects and initiatives I've been a part of:
