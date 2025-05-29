@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Hi, I am Mitro
 permalink: /
 ---
