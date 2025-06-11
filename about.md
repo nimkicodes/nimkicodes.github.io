@@ -1,7 +1,7 @@
 ---
-layout: default
-title: Hi, I am Mitro
-permalink: /
+layout: page
+title: About Me
+permalink: /about-me/
 ---
 
 Hi, I am Mitro (Mitrasree Deb). I am currently pursuing an MS in Computer Science at Western Washington University, with an expected graduation date of June 2026. My primary research interests lie in Human-Computer Interaction (HCI), Data Analysis, and Affective Computing. 
