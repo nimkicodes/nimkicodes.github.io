@@ -83,6 +83,11 @@ html {
   font-size: 3.25rem;
 }
 
+/* Make lead text in sidebar opaque white for better contrast */
+.sidebar .lead {
+  color: #fff;
+}
+
 /* Sidebar nav */
 .sidebar-nav {
   margin-bottom: 1rem;

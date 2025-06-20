@@ -12,4 +12,4 @@ I aspire to dive deeper into the social issues of communities around me. Qualita
 
 Currently, I am a Graduate Teaching Assistant in the Department of Computer Science and doing my Masters' Research under the KIND (Komputing for Inclusion and Disability) Research Group, advised by Dr. Yasmine Elglaly. I have also actively working in the NEAT (Next Generation Effective Affective Technology) Research Group, advised by Dr. Moushumi Sharmin and Dr. Shameem Ahmed. 
 
-During my undergrad and professional life, I worked under the guidance of Dr. Ishtiaque Ahmed from University of Toronto, which resulted into my first ever research publication with the best paper for honorable mention award in CHI 2021 (Top 5%) which is the most reputable venue in HCI. 
+During my undergrad and professional life, I worked under the guidance of Dr. Ishtiaque Ahmed from University of Toronto, which resulted into my first ever research publication with the best paper for honorable mention award in CHI 2021 (Top 5%) which is the most reputable venue in HCI.
